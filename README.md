@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that i'm currently trying to learn
 - 📫 How to reach me : karmimchakib@gmail.com
 
-PS : it's a new github account i didn't add my project yet
+PS : it's a new github account i didn't add my projects yet
 
 <!---
 ChakibKarmim/ChakibKarmim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
