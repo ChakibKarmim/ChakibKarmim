@@ -27,3 +27,5 @@ I love solving complex problems and building projects that make a difference, pa
 
 Feel free to explore my repositories and connect if you have exciting opportunities or collaborations in mind!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakibkarmim)](https://github.com/anuraghazra/github-readme-stats)
+
